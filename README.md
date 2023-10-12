@@ -42,5 +42,5 @@ Para mais informações acesse meu [Linkedin](https://br.linkedin.com/in/jo%C3%A
 <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoniJoao&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DoiJoao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DoniJoao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
