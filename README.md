@@ -13,8 +13,7 @@ I use and installed linux distribuitions, know principles of operational systems
 thats all i can tell, someday i want know my place in big tecnology universe, everyday is a new learn and discovering.  
 
 * Currently working as a Student Inspector at the Itapira 🏫 City Hall.
-* I play FPS when I have free time 🔫 [Steam](https://steamcommunity.com/id/jpedrow1).
-* I have a gaming channel on [Youtube](https://www.youtube.com/channel/UC6Uperu-IisIJLzKY6aUbzQ).
+* [Badge de Desenvolvedor Front-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?922a529e-9344-43bc-b9c7-7456b5e1b1a5)
 
 For more information visit my [Linkedin](https://br.linkedin.com/in/jo%C3%A3o-pedro-doni?trk=public_profile_browsemap)
 
@@ -34,8 +33,8 @@ Eu uso e instalei distribuições linux, conheço princípios de sistemas operac
 isso é tudo que posso dizer, um dia quero saber meu lugar no grande universo da tecnologia, todo dia é um novo aprendizado e descoberta.  
 
 * Atualmente Trabalho como Inspetor de Alunos na Prefeitura de Itapira 🏫.
-* Jogo FPS quando tenho tempo livre 🔫 [Steam](https://steamcommunity.com/id/jpedrow1).
-* Tenho um canal de jogos no [Youtube](https://www.youtube.com/channel/UC6Uperu-IisIJLzKY6aUbzQ).
+* [Badge de Desenvolvedor Front-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?922a529e-9344-43bc-b9c7-7456b5e1b1a5)
+
 
 Para mais informações acesse meu [Linkedin](https://br.linkedin.com/in/jo%C3%A3o-pedro-doni?trk=public_profile_browsemap)
 
@@ -44,5 +43,5 @@ Para mais informações acesse meu [Linkedin](https://br.linkedin.com/in/jo%C3%A
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoniJoao&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DoniJoao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-* [Badge de Desenvolvedor Front-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?922a529e-9344-43bc-b9c7-7456b5e1b1a5)
+
 
