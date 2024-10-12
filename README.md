@@ -1,36 +1,31 @@
-### Hi there 👋, im João Pedro Doni !
-
-Im Brazilian, bilingual, i speak and read a good english(and i love english language), so i will make this Readme in both.  
-As you can see in my Bio, im graduating on Multiplatform Software Development in Fatec Ogari de Castro Pacheco, in itapira, São Paulo.  
-I leaved incompleted a graduation here on Tecnology Information Managment in 2021, where started in 2019, but i made a entrance exam again to make a new curse of Multiplatform Software Development, so I could skip some subjects and finish this new curse soon as planed !  
-I already play games for a hole life, this way i learned all the english completely alone and self-taught.  
-I always have access and use to computers and video games, but as every young i never knowed much details until i start Tecnology Information Managment in 2019.  
-Here open my mind to a complete new world of Tecnology development, now i can tell i dream with a carrer and a place in the world of tecnology.  
-I got some softskills like, good interpersonal relation, easy and fast learning, wish and curiosity to learn and discover how tecnologies works.  
-I like to programing in C, Java, PHP and many other languages.  
-Im learning many other ways to work, like draw UML diagrams, Use cases and other tools of software Enginering.  
-I use and installed linux distribuitions, know principles of operational systems, networks, hardwares and many others.  
-thats all i can tell, someday i want know my place in big tecnology universe, everyday is a new learn and discovering.  
+### Hello 👋, I am João Pedro Doni!
+I completed 4 semesters of Information and Technology Management (GTI) in 2019, but I took the entrance exam again to enroll in the new course of Multiplatform Software Development (DSM) in 2024. This allowed me to eliminate some subjects from the previous course and finish several subjects in the current course ahead of time.
+I played video games throughout my entire childhood, and through that, I learned English completely on my own, in a self-taught manner.
+This sparked my curiosity to discover, not only in games but in all technologies, how they worked and how to use them to solve increasingly real-world problems.
+Here at Fatec, I’m opening my mind to a new world of learning and professional growth. My dream is to work in the field of technology and development.
+I’ve acquired many soft skills, such as good interpersonal relationships, consistent learning, teamwork, and the ability to follow the technology world, discovering how to use various tools in the development of software and intelligent solutions.
+I enjoy programming in C, Java, PHP, Python, SQL, and I’m always eager to expand this list.
+I’m learning many other ways of working, such as agile project management or agile model (SCRUM), UML diagram modeling, brainstorming, and other forms of productive group work.
+I use and install Linux distributions, and I’m familiar with operating systems, networks, and hardware principles.
+One day, I will find my place in the vast universe of technology. Every day is a new learning opportunity and discovery.
 
 * Currently working as a Student Inspector at the Itapira 🏫 City Hall.
-* [Badge de Desenvolvedor Front-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?922a529e-9344-43bc-b9c7-7456b5e1b1a5)
+* [Front-End Developer Badge](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?922a529e-9344-43bc-b9c7-7456b5e1b1a5)
 
 For more information visit my [Linkedin](https://br.linkedin.com/in/jo%C3%A3o-pedro-doni?trk=public_profile_browsemap)
 
 
 ### Olá 👋, sou o João Pedro Doni !
 
-Sou brasileiro, bilíngue, falo e leio um bom inglês (e adoro a língua inglesa), então farei este Readme em ambos.   
-Como você pode ver na minha Bio, estou graduando em Desenvolvimento de Software Multiplataforma na Fatec Ogari de Castro Pacheco, em Itapira, São Paulo.   
-Deixei incompleto uma graduação aqui em Gestão da Informação Tecnológica em 2021, onde comecei em 2019, mas fiz vestibular novamente para fazer um novo curso de Desenvolvimento de Software multiplataforma, para que eu pudesse pular algumas matérias e terminar esse novo curso o mais rápido possível!  
-Eu já jogo vidoegames a uma vida inteira, assim aprendi todo o inglês completamente sozinho e autodidata.   
-Sempre tive acesso e uso a computadores e videogames, mas como todo jovem nunca soube muitos detalhes até iniciar a Gerência de Informação Tecnológica em 2019.  
-Aqui abro minha mente para um novo mundo de desenvolvimento tecnológico, agora posso dizer que sonho com uma carreira e um lugar no mundo da tecnologia.  
-Adquiri algumas softskills como, bom relacionamento interpessoal, aprendizado fácil e rápido, vontade e curiosidade de aprender e descobrir como funcionam as tecnologias.  
-Gosto de programar em C, Java, PHP e muitas outras linguagens.  
-Estou aprendendo muitas outras formas de trabalhar, como desenhar diagramas UML, casos de uso e outras ferramentas de engenharias de software.  
-Eu uso e instalei distribuições linux, conheço princípios de sistemas operacionais, Redes, hardwares e muitos outros.  
-isso é tudo que posso dizer, um dia quero saber meu lugar no grande universo da tecnologia, todo dia é um novo aprendizado e descoberta.  
+Cursei 4 semestres de Gestão da Informação e Tecnologia da Informação (GTI) em 2019, mas prestei vestibular novamente para fazer o novo curso de Desenvolvimento de Software Multiplataforma (DSM) em 2024. Isso me possibilitou eliminar algumas matérias realizadas no curso anterior e terminar diversas matérias do curso atual antecipadamente.
+Eu joguei videogames minha infância inteira, e assim aprendi todo o inglês completamente sozinho, de forma autodidata.
+Isso me despertou a vontade de descobrir, não apenas nos jogos, mas em todas as tecnologias, como funcionavam e como usá-las para resolver cada vez mais problemas reais.
+Aqui na Fatec, abro minha mente para um novo mundo de aprendizado e formação profissional. Meu sonho é atuar na área de tecnologia e desenvolvimento.
+Adquiri muitas soft skills, como bom relacionamento interpessoal, aprendizado consistente, trabalho em equipe e a habilidade de acompanhar o mundo da tecnologia, descobrindo como usar as diversas ferramentas no desenvolvimento de softwares e soluções inteligentes.
+Gosto de programar em C, Java, PHP, Python, SQL e sempre estou disposto a aumentar essa lista.
+Estou aprendendo muitas outras formas de trabalhar, como a implementação da gestão ágil de projetos ou modelo ágil (SCRUM), modelagem de diagramas UML, brainstorming e outras interações de trabalho produtivo em grupo.
+Eu uso e instalo distribuições Linux, conheço princípios de sistemas operacionais, redes e hardware.
+Um dia encontrarei meu lugar no grande universo da tecnologia. Todo dia é um novo aprendizado e descoberta.
 
 * Atualmente Trabalho como Inspetor de Alunos na Prefeitura de Itapira 🏫.
 * [Badge de Desenvolvedor Front-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?922a529e-9344-43bc-b9c7-7456b5e1b1a5)
