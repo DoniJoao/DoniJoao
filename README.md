@@ -3,9 +3,9 @@
 
 * Estou cursando Desenvolvimento de Software Multiplataforma (DSM) de 2023 até o momento.
 
-* Minha curiosidade em tecnologia começou nos videogames. Joguei durante toda a minha infância e, assim, aprendi a ler e ouvir em inglês de forma autodidata. Isso despertou em mim o interesse de descobrir não apenas como os jogos eram desenvolvidos, mas também como funcionavam diversas tecnologias, e como utilizá-las para agregar valor à vida das pessoas e resolver problemas reais.
+* Minha curiosidade em tecnologia começou nos videogames. Joguei durante toda a minha infância e, assim, aprendi a ler e ouvir em inglês de forma autodidata. Isso despertou em mim o interesse de descobrir não apenas como os jogos eram desenvolvidos, mas também como funcionavam diversas tecnologias,  como utilizá-las para agregar valor à vida das pessoas e resolver problemas reais.
 
-* Na Fatec, estou expandindo minha mente para um mundo de autodesenvolvimento e aprendizado. Meu sonho é trabalhar na área de tecnologia.
+* Na Fatec, estou expandindo minha mente para um mundo de autodesenvolvimento e aprendizado. Meu sonho é trabalhar com tecnologia.
 
 * Adquiri valiosas soft skills, como bom relacionamento interpessoal, aprendizado consistente, trabalho em equipe e a capacidade de acompanhar o mundo da tecnologia e suas constantes mudanças, descobrindo como usar diversas ferramentas no desenvolvimento de softwares e soluções inteligentes.
 
