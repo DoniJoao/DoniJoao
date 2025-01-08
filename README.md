@@ -18,6 +18,8 @@
 Ainda estou indeciso quanto à área de tecnologia na qual vou me aprofundar, mas, até lá, estou disposto a aprender o necessário para desenvolver cada projeto proposto e atingir os resultados exigidos.
 
 * Atualmente Trabalho como Inspetor de Alunos na Prefeitura de Itapira 🏫.
+
+* Meus Badges e Certificados
 * [Badge de Desenvolvedor Front-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?922a529e-9344-43bc-b9c7-7456b5e1b1a5)
 
 
@@ -44,7 +46,13 @@ Para mais informações acesse meu [Linkedin](https://br.linkedin.com/in/jo%C3%A
 I’m still undecided about which area of technology I will specialize in, but until then, I am willing to learn whatever is necessary to develop each project and achieve the required results.
 
 * Currently working as a Student Inspector at the Itapira 🏫 City Hall.
+
+* My Badges and Certificates
+* Desenvolvi uma Loja Virtual em [Angular](https://github.com/DoniJoao/ProWayComputers).
+* * Santander Bootcamp 2023 - [Back-End Developer Java](https://github.com/DoniJoao/SantanderBootcamp2023-BackendJava).
 * [Front-End Developer Badge](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?922a529e-9344-43bc-b9c7-7456b5e1b1a5)
+* Aluno Certificado do CC50 [Repositório CC50](https://github.com/DoniJoao/CC50---O-Curso-de-Ciencia-da-Computacao-de-Harvard-no-Brasil).
+* Participei da Produção de uma [Caixa de Medicamentos Inteligente](https://github.com/DoniJoao/smart-pill-box).
 
 For more information visit my [Linkedin](https://br.linkedin.com/in/jo%C3%A3o-pedro-doni?trk=public_profile_browsemap)
 
