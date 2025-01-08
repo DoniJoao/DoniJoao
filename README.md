@@ -49,7 +49,7 @@ Para mais informações acesse meu [Linkedin](https://br.linkedin.com/in/jo%C3%A
 
 * I use Linux (Lubuntu) and have experience installing operating systems (other Linux distributions and Windows).
 
-I’m still undecided about which area of technology I will specialize in, but until then, I am willing to learn whatever is necessary to develop each project and achieve the required results.
+As I look to discover which area of ​​technology I will delve into, I am willing to learn what is necessary to develop each proposed project and achieve the required results.
 
 * Currently working as a Student Inspector at the Itapira 🏫 City Hall.
 
