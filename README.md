@@ -20,7 +20,12 @@ Ainda estou indeciso quanto à área de tecnologia na qual vou me aprofundar, ma
 * Atualmente Trabalho como Inspetor de Alunos na Prefeitura de Itapira 🏫.
 
 * Meus Badges e Certificados
-* [Badge de Desenvolvedor Front-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?922a529e-9344-43bc-b9c7-7456b5e1b1a5)
+
+* Desenvolvi uma Loja Virtual em [Angular](https://github.com/DoniJoao/ProWayComputers).
+* Conclui o Santander Bootcamp 2023 - [Back-End Developer Java](https://github.com/DoniJoao/SantanderBootcamp2023-BackendJava).
+* Certificado como Desenvolvedor Front-End  pela Fatec de itapira [Badge de Desenvolvedor Front-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?922a529e-9344-43bc-b9c7-7456b5e1b1a5)
+* Aluno Certificado do CC50 [Repositório CC50](https://github.com/DoniJoao/CC50---O-Curso-de-Ciencia-da-Computacao-de-Harvard-no-Brasil).
+* Participei da Produção de uma [Caixa de Medicamentos Inteligente](https://github.com/DoniJoao/smart-pill-box).
 
 
 Para mais informações acesse meu [Linkedin](https://br.linkedin.com/in/jo%C3%A3o-pedro-doni?trk=public_profile_browsemap)
