@@ -49,7 +49,7 @@ I’m still undecided about which area of technology I will specialize in, but u
 
 * My Badges and Certificates
 * Desenvolvi uma Loja Virtual em [Angular](https://github.com/DoniJoao/ProWayComputers).
-* * Santander Bootcamp 2023 - [Back-End Developer Java](https://github.com/DoniJoao/SantanderBootcamp2023-BackendJava).
+* Santander Bootcamp 2023 - [Back-End Developer Java](https://github.com/DoniJoao/SantanderBootcamp2023-BackendJava).
 * [Front-End Developer Badge](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?922a529e-9344-43bc-b9c7-7456b5e1b1a5)
 * Aluno Certificado do CC50 [Repositório CC50](https://github.com/DoniJoao/CC50---O-Curso-de-Ciencia-da-Computacao-de-Harvard-no-Brasil).
 * Participei da Produção de uma [Caixa de Medicamentos Inteligente](https://github.com/DoniJoao/smart-pill-box).
