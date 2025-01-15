@@ -60,7 +60,7 @@ As I look to discover which area of ​​technology I will delve into, I am wil
 * Certified Finish CS50 of Harvard [CC50 Repository](https://github.com/DoniJoao/CC50---O-Curso-de-Ciencia-da-Computacao-de-Harvard-no-Brasil).
 * I participated in the production of a [Smart Pill Box](https://github.com/DoniJoao/smart-pill-box).
 
-For more information visit my [Linkedin](https://br.linkedin.com/in/jo%C3%A3o-pedro-doni?trk=public_profile_browsemap)
+For more information visit my [Linkedin](h[ttps://br.linkedin.com/in/jo%C3%A3o-pedro-doni?trk=public_profile_browsemap](https://www.linkedin.com/in/doni-joao/))
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
