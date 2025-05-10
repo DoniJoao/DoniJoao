@@ -36,9 +36,9 @@ Isso despertou em mim o interesse de descobrir não apenas como os jogos eram de
   
   * Front-End Basico (o primeiro) [Badge Inicial Front-End](https://badge.cps.sp.gov.br//view.aspx?5df1aa6a-8702-47a5-b644-ef2a13d3d4ad)
     
-  * Front-End [Badge de Desenvolvedor Front-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?922a529e-9344-43bc-b9c7-7456b5e1b1a5)
+  * Front-End [Badge de Desenvolvedor Front-End](https://badge.cps.sp.gov.br/_pdf/1b24014bf04e461792c8c40a73179bab.PDF)
     
-  * Back-End [Badge de Desenvolvedor Back-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?b046f5c7-87f4-4f1e-b688-2b3c3a90b361)
+  * Back-End [Badge de Desenvolvedor Back-End](https://badge.cps.sp.gov.br/_pdf/e8064728f39d453ebd8b2734f1a29655.PDF)
     
   * User Experience [Badge de UX](https://badge.cps.sp.gov.br//view.aspx?f9f5ccbf-d979-4102-bc29-efe209e7bab7)
     
@@ -83,9 +83,9 @@ I have certified badges issued by Fatec de Itapíra as a prepared and reliable d
 
  * Front-End Basic (the first one) [Initial Badge Front-End](https://badge.cps.sp.gov.br//view.aspx?5df1aa6a-8702-47a5-b644-ef2a13d3d4ad)
    
- * Front-End [Badge of Desenvolvedor Front-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?922a529e-9344-43bc-b9c7-7456b5e1b1a5)
+ * Front-End [Badge of Desenvolvedor Front-End](https://badge.cps.sp.gov.br/_pdf/1b24014bf04e461792c8c40a73179bab.PDF)
    
- * Back-End [Badge of Desenvolvedor Back-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?b046f5c7-87f4-4f1e-b688-2b3c3a90b361)
+ * Back-End [Badge of Desenvolvedor Back-End](https://badge.cps.sp.gov.br/_pdf/e8064728f39d453ebd8b2734f1a29655.PDF)
    
  * User Experience [Badge dof UX](https://badge.cps.sp.gov.br//view.aspx?f9f5ccbf-d979-4102-bc29-efe209e7bab7)
    
