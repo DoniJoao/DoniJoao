@@ -14,9 +14,7 @@ Isso despertou em mim o interesse de descobrir não apenas como os jogos eram de
 
 * estou sempre aberto a explorar e aprender novas tecnologias.
 
-* Faço uso de Linux (Lubuntu) e tenho experiência na instalação de sistemas operacionais (outras distribuições Linux e Windows).
-
-Enquanto busco descobrir qual área de tecnologia na qual vou me aprofundar, estou disposto a aprender o necessário para desenvolver cada projeto proposto e atingir os resultados exigidos.
+* Faço uso de Linux (atualmente Xubuntu) e tenho experiência na instalação de sistemas operacionais (outras distribuições Linux e Windows).
 
 * Atualmente Trabalho como Inspetor de Alunos na Prefeitura de Itapira 🏫.
 
@@ -24,15 +22,21 @@ Enquanto busco descobrir qual área de tecnologia na qual vou me aprofundar, est
 
 * Desenvolvi uma Loja Virtual em [Angular](https://github.com/DoniJoao/ProWayComputers).
 * Conclui o Santander Bootcamp 2023 - [Back-End Developer Java](https://github.com/DoniJoao/SantanderBootcamp2023-BackendJava).
-* Certificado como Desenvolvedor Front-End  pela Fatec de itapira [Badge de Desenvolvedor Front-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?922a529e-9344-43bc-b9c7-7456b5e1b1a5)
 * Aluno Certificado do CC50 de Harvard [Repositório CC50](https://github.com/DoniJoao/CC50---O-Curso-de-Ciencia-da-Computacao-de-Harvard-no-Brasil).
 * Participei da Produção de uma [Caixa de Medicamentos Inteligente](https://github.com/DoniJoao/smart-pill-box).
 
+  ### Badges
+  Possuo badges certificados emitidos pela Fatec de Itapíra como Desenvolvedor preparado e Confiavel em funções como:
+  * Front-End Basico(o primeiro) [Badge Inicial Front-End](https://badge.cps.sp.gov.br//view.aspx?5df1aa6a-8702-47a5-b644-ef2a13d3d4ad)
+  * Front-End [Badge de Desenvolvedor Front-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?922a529e-9344-43bc-b9c7-7456b5e1b1a5)
+  * Back-End [Badge de Desenvolvedor Back-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?b046f5c7-87f4-4f1e-b688-2b3c3a90b361)
+  * User Experience [Badge de UX](https://badge.cps.sp.gov.br//view.aspx?f9f5ccbf-d979-4102-bc29-efe209e7bab7)
+  * Padrões de Design [Badge Design Patterns](https://badge.cps.sp.gov.br//view.aspx?eee24862-70dc-467e-bf52-e7dd72342a0f)
 
 Para mais informações acesse meu [Linkedin](https://www.linkedin.com/in/doni-joao/)
 
 
-### Hello 👋, I'm João Pedro Doni!
+### Hi 👋, I'm John Peter Doni (this is my name in native english Haha)!
 * I studied Information and Technology Management (ITM) for 2 years, from 2019 to 2021.
 
 * I am currently studying Multiplatform Software Development (MSD) since 2023.
@@ -47,23 +51,30 @@ Para mais informações acesse meu [Linkedin](https://www.linkedin.com/in/doni-j
 
 * I am always open to exploring and learning new technologies.
 
-* I use Linux (Lubuntu) and have experience installing operating systems (other Linux distributions and Windows).
-
-As I look to discover which area of ​​technology I will delve into, I am willing to learn what is necessary to develop each proposed project and achieve the required results.
+* I use Linux (atually Xubuntu) and have experience installing operating systems (other Linux distributions and Windows).
 
 * Currently working as a Student Inspector at the Itapira 🏫 City Hall.
 
 * My Badges and Certificates
 * Developed a Virtual store in [Angular](https://github.com/DoniJoao/ProWayComputers).
 * Finished Santander Bootcamp in 2023 - [Back-End Developer Java](https://github.com/DoniJoao/SantanderBootcamp2023-BackendJava).
-* Certified as Front-End Developer by Fatec of Itapira[Front-End Developer Badge](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?922a529e-9344-43bc-b9c7-7456b5e1b1a5)
 * Certified Finish CS50 of Harvard [CC50 Repository](https://github.com/DoniJoao/CC50---O-Curso-de-Ciencia-da-Computacao-de-Harvard-no-Brasil).
 * I participated in the production of a [Smart Pill Box](https://github.com/DoniJoao/smart-pill-box).
+
+### Badges
+I have certified badges issued by Fatec de Itapíra as a prepared and reliable developer in functions such as:
+ * Front-End Basic(the first one) [Initial Badge Front-End](https://badge.cps.sp.gov.br//view.aspx?5df1aa6a-8702-47a5-b644-ef2a13d3d4ad)
+ * Front-End [Badge of Desenvolvedor Front-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?922a529e-9344-43bc-b9c7-7456b5e1b1a5)
+ * Back-End [Badge of Desenvolvedor Back-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?b046f5c7-87f4-4f1e-b688-2b3c3a90b361)
+ * User Experience [Badge dof UX](https://badge.cps.sp.gov.br//view.aspx?f9f5ccbf-d979-4102-bc29-efe209e7bab7)
+ * Padrões de Design [Badge of Design Patterns](https://badge.cps.sp.gov.br//view.aspx?eee24862-70dc-467e-bf52-e7dd72342a0f)
+
+
 
 For more information visit my [Linkedin](https://www.linkedin.com/in/doni-joao/)
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/DoniJoao">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoniJoao&layout=compact&langs_count=7&theme=dracula"/>
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DoniJoao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
