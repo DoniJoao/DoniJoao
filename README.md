@@ -1,4 +1,7 @@
 ### Olá 👋, sou o João Pedro Doni!
+
+* Futuro Desenvolvedor Back-End, amo fazer bancos de dados, logicas de operações, estabalecer regras, produzir/atender documentações e é claro, fazer as soluções funcionarem independente das aparencias.
+  
 * Cursei 2 anos de Gestão da Informação e Tecnologia da Informação (GTI) de 2019 a 2021.
 
 * Estou cursando Desenvolvimento de Software Multiplataforma (DSM) de 2023 até o momento.
@@ -21,22 +24,33 @@ Isso despertou em mim o interesse de descobrir não apenas como os jogos eram de
 * Meus Badges e Certificados
 
 * Desenvolvi uma Loja Virtual em [Angular](https://github.com/DoniJoao/ProWayComputers).
+  
 * Conclui o Santander Bootcamp 2023 - [Back-End Developer Java](https://github.com/DoniJoao/SantanderBootcamp2023-BackendJava).
+  
 * Aluno Certificado do CC50 de Harvard [Repositório CC50](https://github.com/DoniJoao/CC50---O-Curso-de-Ciencia-da-Computacao-de-Harvard-no-Brasil).
+  
 * Participei da Produção de uma [Caixa de Medicamentos Inteligente](https://github.com/DoniJoao/smart-pill-box).
 
   ### Badges
   Possuo badges certificados emitidos pela Fatec de Itapíra como Desenvolvedor preparado e Confiavel em funções como:
+  
   * Front-End Basico(o primeiro) [Badge Inicial Front-End](https://badge.cps.sp.gov.br//view.aspx?5df1aa6a-8702-47a5-b644-ef2a13d3d4ad)
+    
   * Front-End [Badge de Desenvolvedor Front-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?922a529e-9344-43bc-b9c7-7456b5e1b1a5)
+    
   * Back-End [Badge de Desenvolvedor Back-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?b046f5c7-87f4-4f1e-b688-2b3c3a90b361)
+    
   * User Experience [Badge de UX](https://badge.cps.sp.gov.br//view.aspx?f9f5ccbf-d979-4102-bc29-efe209e7bab7)
+    
   * Padrões de Design [Badge Design Patterns](https://badge.cps.sp.gov.br//view.aspx?eee24862-70dc-467e-bf52-e7dd72342a0f)
 
 Para mais informações acesse meu [Linkedin](https://www.linkedin.com/in/doni-joao/)
 
 
 ### Hi 👋, I'm John Peter Doni (this is my name in native english Haha)!
+
+* Future Back-End Developer, I love creating databases, operating logic, establishing rules, producing/responding to documentation and of course, making solutions work regardless of appearances.
+
 * I studied Information and Technology Management (ITM) for 2 years, from 2019 to 2021.
 
 * I am currently studying Multiplatform Software Development (MSD) since 2023.
@@ -57,16 +71,24 @@ Para mais informações acesse meu [Linkedin](https://www.linkedin.com/in/doni-j
 
 * My Badges and Certificates
 * Developed a Virtual store in [Angular](https://github.com/DoniJoao/ProWayComputers).
+  
 * Finished Santander Bootcamp in 2023 - [Back-End Developer Java](https://github.com/DoniJoao/SantanderBootcamp2023-BackendJava).
+  
 * Certified Finish CS50 of Harvard [CC50 Repository](https://github.com/DoniJoao/CC50---O-Curso-de-Ciencia-da-Computacao-de-Harvard-no-Brasil).
+  
 * I participated in the production of a [Smart Pill Box](https://github.com/DoniJoao/smart-pill-box).
 
 ### Badges
 I have certified badges issued by Fatec de Itapíra as a prepared and reliable developer in functions such as:
+
  * Front-End Basic(the first one) [Initial Badge Front-End](https://badge.cps.sp.gov.br//view.aspx?5df1aa6a-8702-47a5-b644-ef2a13d3d4ad)
+   
  * Front-End [Badge of Desenvolvedor Front-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?922a529e-9344-43bc-b9c7-7456b5e1b1a5)
+   
  * Back-End [Badge of Desenvolvedor Back-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?b046f5c7-87f4-4f1e-b688-2b3c3a90b361)
+   
  * User Experience [Badge dof UX](https://badge.cps.sp.gov.br//view.aspx?f9f5ccbf-d979-4102-bc29-efe209e7bab7)
+   
  * Padrões de Design [Badge of Design Patterns](https://badge.cps.sp.gov.br//view.aspx?eee24862-70dc-467e-bf52-e7dd72342a0f)
 
 
