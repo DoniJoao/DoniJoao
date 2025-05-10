@@ -21,8 +21,6 @@ Isso despertou em mim o interesse de descobrir não apenas como os jogos eram de
 
 * Atualmente Trabalho como Inspetor de Alunos na Prefeitura de Itapira 🏫.
 
-* Meus Badges e Certificados
-
 * Desenvolvi uma Loja Virtual em [Angular](https://github.com/DoniJoao/ProWayComputers).
   
 * Conclui o Santander Bootcamp 2023 - [Back-End Developer Java](https://github.com/DoniJoao/SantanderBootcamp2023-BackendJava).
@@ -67,7 +65,6 @@ Para mais informações acesse meu [Linkedin](https://www.linkedin.com/in/doni-j
 
 * Currently working as a Student Inspector at the Itapira 🏫 City Hall.
 
-* My Badges and Certificates
 * Developed a Virtual store in [Angular](https://github.com/DoniJoao/ProWayComputers).
   
 * Finished Santander Bootcamp in 2023 - [Back-End Developer Java](https://github.com/DoniJoao/SantanderBootcamp2023-BackendJava).
