@@ -34,7 +34,7 @@ Isso despertou em mim o interesse de descobrir não apenas como os jogos eram de
   ### Badges
   Possuo badges certificados emitidos pela Fatec de Itapíra como Desenvolvedor preparado e Confiavel em funções como:
   
-  * Front-End Basico(o primeiro) [Badge Inicial Front-End](https://badge.cps.sp.gov.br//view.aspx?5df1aa6a-8702-47a5-b644-ef2a13d3d4ad)
+  * Front-End Basico (o primeiro) [Badge Inicial Front-End](https://badge.cps.sp.gov.br//view.aspx?5df1aa6a-8702-47a5-b644-ef2a13d3d4ad)
     
   * Front-End [Badge de Desenvolvedor Front-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?922a529e-9344-43bc-b9c7-7456b5e1b1a5)
     
@@ -81,7 +81,7 @@ Para mais informações acesse meu [Linkedin](https://www.linkedin.com/in/doni-j
 ### Badges
 I have certified badges issued by Fatec de Itapíra as a prepared and reliable developer in functions such as:
 
- * Front-End Basic(the first one) [Initial Badge Front-End](https://badge.cps.sp.gov.br//view.aspx?5df1aa6a-8702-47a5-b644-ef2a13d3d4ad)
+ * Front-End Basic (the first one) [Initial Badge Front-End](https://badge.cps.sp.gov.br//view.aspx?5df1aa6a-8702-47a5-b644-ef2a13d3d4ad)
    
  * Front-End [Badge of Desenvolvedor Front-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?922a529e-9344-43bc-b9c7-7456b5e1b1a5)
    
