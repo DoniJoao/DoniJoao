@@ -61,7 +61,7 @@ Para mais informações acesse meu [Linkedin](https://www.linkedin.com/in/doni-j
 
 * I am always open to exploring and learning new technologies.
 
-* I use Linux (atually Xubuntu) and have experience installing operating systems (other Linux distributions and Windows).
+* I use Linux (actually Xubuntu) and have experience installing operating systems (other Linux distributions and Windows).
 
 * Currently working as a Student Inspector at the Itapira 🏫 City Hall.
 
