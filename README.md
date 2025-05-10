@@ -27,8 +27,6 @@ Isso despertou em mim o interesse de descobrir não apenas como os jogos eram de
   
 * Conclui o Santander Bootcamp 2023 - [Back-End Developer Java](https://github.com/DoniJoao/SantanderBootcamp2023-BackendJava).
   
-* Aluno Certificado do CC50 de Harvard [Repositório CC50](https://github.com/DoniJoao/CC50---O-Curso-de-Ciencia-da-Computacao-de-Harvard-no-Brasil).
-  
 * Participei da Produção de uma [Caixa de Medicamentos Inteligente](https://github.com/DoniJoao/smart-pill-box).
 
   ### Badges
@@ -73,8 +71,6 @@ Para mais informações acesse meu [Linkedin](https://www.linkedin.com/in/doni-j
 * Developed a Virtual store in [Angular](https://github.com/DoniJoao/ProWayComputers).
   
 * Finished Santander Bootcamp in 2023 - [Back-End Developer Java](https://github.com/DoniJoao/SantanderBootcamp2023-BackendJava).
-  
-* Certified Finish CS50 of Harvard [CC50 Repository](https://github.com/DoniJoao/CC50---O-Curso-de-Ciencia-da-Computacao-de-Harvard-no-Brasil).
   
 * I participated in the production of a [Smart Pill Box](https://github.com/DoniJoao/smart-pill-box).
 
