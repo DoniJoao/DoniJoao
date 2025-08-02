@@ -6,26 +6,13 @@
 
 * Estou cursando Desenvolvimento de Software Multiplataforma (DSM) de 2023 até o momento.
 
-* Minha curiosidade em tecnologia começou nos videogames. Joguei durante toda a minha infância e, assim, aprendi a ler e ouvir em inglês de forma autodidata. 
-Isso despertou em mim o interesse de descobrir não apenas como os jogos eram desenvolvidos, mas também como funcionavam diversas tecnologias,  como utilizá-las para agregar valor à vida das pessoas e resolver problemas reais.
-
-* Adquiri valiosas soft skills, como bom relacionamento interpessoal, aprendizado consistente, trabalho em equipe e a capacidade de acompanhar o mundo da tecnologia e suas constantes mudanças.
-
-* Possuo experiencia em trabalhar nos Modelos Ágeis de desenvolvimento, engenharia de software e gestão de projetos.
-
-* Aprendi programação em HTML, PHP, Java, Typescript, CSS, Pascal, SQL e muito mais, mas agora estou procurando e decidindo em qual tecnologia ou área vou me aprofundar mais e me especializar.
-
-* estou sempre aberto a explorar e aprender novas tecnologias.
-
-* Faço uso de Linux (atualmente Xubuntu) e tenho experiência na instalação de sistemas operacionais (outras distribuições Linux e Windows).
-
-* Atualmente Trabalho como Inspetor de Alunos na Prefeitura de Itapira 🏫.
-
-* Desenvolvi uma Loja Virtual em [Angular](https://github.com/DoniJoao/ProWayComputers).
+* Minha curiosidade em tecnologia começou com jogos, aprendi a ler e ouvir em inglês de forma autodidata.
   
-* Conclui o Santander Bootcamp 2023 - [Back-End Developer Java](https://github.com/DoniJoao/SantanderBootcamp2023-BackendJava).
-  
-* Participei da Produção de uma [Caixa de Medicamentos Inteligente](https://github.com/DoniJoao/smart-pill-box).
+* Após os jogos veio o interesse por computadores e quando vi ja estava a procurar entender como funciona todo aparelho que recebe e transmite informação, pensar como podia melhorar processos e entregar ferramentas de valor para o dia-a-dia das pessoas.
+
+* sou fascinado por tecnologias Open-Source, faço uso de Linux e diversas ferramentas de código aberto.
+
+* Atualmente Trabalho como Assistente de TI na Rede de Distribuição Zeferino.
 
   ### Badges
   Possuo badges certificados emitidos pela Fatec de Itapíra como Desenvolvedor preparado e Confiavel em funções como:
@@ -45,31 +32,19 @@ Para mais informações acesse meu [Linkedin](https://www.linkedin.com/in/doni-j
 
 ### Hi 👋, I'm John Peter Doni (this is my name in native english Haha)!
 
-* Future Back-End Developer, I love creating databases, operating logic, establishing rules, producing/responding to documentation and of course, making solutions work regardless of appearances.
+* Future Back-End Developer. I love creating databases, operational logic, establishing rules, producing/adhering to documentation, and of course, making solutions work regardless of appearances.
 
-* I studied Information and Technology Management (ITM) for 2 years, from 2019 to 2021.
+* I studied Information Management and Information Technology (ITG) for two years from 2019 to 2021.
 
-* I am currently studying Multiplatform Software Development (MSD) since 2023.
+* I'm currently studying Multiplatform Software Development (MSD) from 2023.
 
-* My curiosity for technology began with video games. I played throughout my childhood, and that’s how I taught myself to read and understand English on my own, becoming self-taught. This sparked my curiosity not only to discover how games were developed, but also how all technologies worked and how to use them to add value to people’s lives and solve real-world problems.
+* My curiosity about technology began with games; I taught myself to read and listen in English.
 
-* I have acquired valuable soft skills, such as strong interpersonal relationships, consistent learning, teamwork, and the ability to keep up with the fast-paced world of technology, discovering how to use various tools for software development and intelligent solutions.
+* After games, I became interested in computers, and before I knew it, I was already trying to understand how every device that receives and transmits information works, thinking about how I could improve processes and deliver valuable tools for people's daily lives.
 
-* I am familiar with Agile development models, software engineering, and project management.
+* I'm fascinated by open-source technologies; I use Linux and various open-source tools.
 
-* I learned programming in HTML, PHP, Java, Typescript, CSS, Pascal, SQL and much more, but now I'm looking for and deciding which technology or area I'm going to delve deeper into and specialize in.
-
-* I am always open to exploring and learning new technologies.
-
-* I use Linux (actually Xubuntu) and have experience installing operating systems (other Linux distributions and Windows).
-
-* Currently working as a Student Inspector at the Itapira 🏫 City Hall.
-
-* Developed a Virtual store in [Angular](https://github.com/DoniJoao/ProWayComputers).
-  
-* Finished Santander Bootcamp in 2023 - [Back-End Developer Java](https://github.com/DoniJoao/SantanderBootcamp2023-BackendJava).
-  
-* I participated in the production of a [Smart Pill Box](https://github.com/DoniJoao/smart-pill-box).
+* I currently work as an IT Assistant at the Zeferino Distribution Network.
 
 ### Badges
 I have certified badges issued by Fatec de Itapíra as a prepared and reliable developer in functions such as:
