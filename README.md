@@ -12,8 +12,6 @@
 
 * sou fascinado por tecnologias Open-Source, faço uso de Linux e diversas ferramentas de código aberto.
 
-* Atualmente Trabalho como Assistente de TI na Rede de Distribuição Zeferino.
-
   ### Badges
   Possuo badges certificados emitidos pela Fatec de Itapíra como Desenvolvedor preparado e Confiavel em funções como:
   
@@ -43,8 +41,6 @@ Para mais informações acesse meu [Linkedin](https://www.linkedin.com/in/doni-j
 * After games, I became interested in computers, and before I knew it, I was already trying to understand how every device that receives and transmits information works, thinking about how I could improve processes and deliver valuable tools for people's daily lives.
 
 * I'm fascinated by open-source technologies; I use Linux and various open-source tools.
-
-* I currently work as an IT Assistant at the Zeferino Distribution Network.
 
 ### Badges
 I have certified badges issued by Fatec de Itapíra as a prepared and reliable developer in functions such as:
