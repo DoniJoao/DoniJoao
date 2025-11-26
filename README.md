@@ -1,14 +1,10 @@
 ### Olá 👋, sou o João Pedro Doni!
-
-* Futuro Desenvolvedor Back-End, amo fazer bancos de dados, logicas de operações, estabalecer regras, produzir/atender documentações e é claro, fazer as soluções funcionarem independente das aparencias.
   
 * Cursei 2 anos de Gestão da Informação e Tecnologia da Informação (GTI) de 2019 a 2021.
 
 * Estou cursando Desenvolvimento de Software Multiplataforma (DSM) de 2023 até o momento.
 
-* Minha curiosidade em tecnologia começou com jogos, aprendi a ler e ouvir em inglês de forma autodidata.
-  
-* Após os jogos veio o interesse por computadores e quando vi ja estava a procurar entender como funciona todo aparelho que recebe e transmite informação, pensar como podia melhorar processos e entregar ferramentas de valor para o dia-a-dia das pessoas.
+* Autodidata em Inglês
 
 * sou fascinado por tecnologias Open-Source, faço uso de Linux e diversas ferramentas de código aberto.
 
@@ -30,15 +26,11 @@ Para mais informações acesse meu [Linkedin](https://www.linkedin.com/in/doni-j
 
 ### Hi 👋, I'm John Peter Doni (this is my name in native english Haha)!
 
-* Future Back-End Developer. I love creating databases, operational logic, establishing rules, producing/adhering to documentation, and of course, making solutions work regardless of appearances.
-
 * I studied Information Management and Information Technology (ITG) for two years from 2019 to 2021.
 
 * I'm currently studying Multiplatform Software Development (MSD) from 2023.
 
-* My curiosity about technology began with games; I taught myself to read and listen in English.
-
-* After games, I became interested in computers, and before I knew it, I was already trying to understand how every device that receives and transmits information works, thinking about how I could improve processes and deliver valuable tools for people's daily lives.
+* I taught myself to read and listen in English.
 
 * I'm fascinated by open-source technologies, I use Linux and various open-source tools.
 
