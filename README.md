@@ -50,11 +50,3 @@ I have certified badges issued by Fatec de Itapíra as a prepared and reliable d
 
 
 For more information visit my [Linkedin](https://www.linkedin.com/in/doni-joao/)
-
-
-<div align="center">
-<a href="https://github.com/DoniJoao">
-<img height="180em" src="https://raw.githubusercontent.com/DoniJoao/DoniJoao/main/stats-images/top-langs.svg"/>
-<img height="180em" src="https://raw.githubusercontent.com/DoniJoao/DoniJoao/main/stats-images/stats.svg"/>
-</a>
-</div>
