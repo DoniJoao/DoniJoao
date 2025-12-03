@@ -1,0 +1,39 @@
+name: Update GitHub Stats
+
+on:
+  # Executa diariamente às 00:00 UTC
+  schedule:
+    - cron: '0 0 * * *'
+  # Permite executar manualmente
+  workflow_dispatch:
+  # Executa quando há push na branch main
+  push:
+    branches:
+      - main
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          
+      - name: Generate Stats Images
+        uses: Platane/snk@v3
+        with:
+          github_user_name: DoniJoao
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+          
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: stats-images
