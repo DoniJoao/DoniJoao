@@ -52,9 +52,8 @@ I have certified badges issued by Fatec de Itapíra as a prepared and reliable d
 For more information visit my [Linkedin](https://www.linkedin.com/in/doni-joao/)
 
 
-<div align="center">
-  <a href="https://github.com/DoniJoao">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoniJoao&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DoniJoao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
-  </a>
+<div>
+<a href="https://github.com/DoniJoao">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoniJoao&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=DoniJoao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
