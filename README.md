@@ -53,7 +53,9 @@ For more information visit my [Linkedin](https://www.linkedin.com/in/doni-joao/)
 
 
 <div align="center">
-  
-  ![GitHub Snake](https://raw.githubusercontent.com/DoniJoao/DoniJoao/stats-images/github-snake.svg)
-  
+  <a href="https://github.com/DoniJoao">
+    <!-- Tente esta URL alternativa -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DoniJoao&layout=compact&langs_count=7&theme=dracula&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DoniJoao&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  </a>
 </div>
