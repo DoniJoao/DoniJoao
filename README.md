@@ -20,6 +20,8 @@
   * User Experience [Badge de UX](https://badge.cps.sp.gov.br//view.aspx?f9f5ccbf-d979-4102-bc29-efe209e7bab7)
     
   * Padrões de Design [Badge Design Patterns](https://badge.cps.sp.gov.br//view.aspx?eee24862-70dc-467e-bf52-e7dd72342a0f)
+  
+  * AWS Academy Graduate - Cloud Developing - Training Badge [Badge Cloud Developing](https://www.credly.com/badges/043658ad-36d0-4a3e-b7f4-d3f59ce7d52f/public_url)
 
 Para mais informações acesse meu [Linkedin](https://www.linkedin.com/in/doni-joao/)
 
@@ -46,6 +48,8 @@ I have certified badges issued by Fatec de Itapíra as a prepared and reliable d
  * User Experience [Badge dof UX](https://badge.cps.sp.gov.br//view.aspx?f9f5ccbf-d979-4102-bc29-efe209e7bab7)
    
  * Padrões de Design [Badge of Design Patterns](https://badge.cps.sp.gov.br//view.aspx?eee24862-70dc-467e-bf52-e7dd72342a0f)
+ 
+ ** AWS Academy Graduate - Cloud Developing - Training Badge [Badge Cloud Developing](https://www.credly.com/badges/043658ad-36d0-4a3e-b7f4-d3f59ce7d52f/public_url) 
 
 
 
