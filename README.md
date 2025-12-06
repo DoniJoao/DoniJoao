@@ -49,7 +49,7 @@ I have certified badges issued by Fatec de Itapíra as a prepared and reliable d
    
  * Padrões de Design [Badge of Design Patterns](https://badge.cps.sp.gov.br//view.aspx?eee24862-70dc-467e-bf52-e7dd72342a0f)
  
- ** AWS Academy Graduate - Cloud Developing - Training Badge [Badge Cloud Developing](https://www.credly.com/badges/043658ad-36d0-4a3e-b7f4-d3f59ce7d52f/public_url) 
+ * AWS Academy Graduate - Cloud Developing - Training Badge [Badge Cloud Developing](https://www.credly.com/badges/043658ad-36d0-4a3e-b7f4-d3f59ce7d52f/public_url) 
 
 
 
