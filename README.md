@@ -3,8 +3,8 @@
 * Cursei 2 anos de Gestão da Informação e Tecnologia da Informação (GTI) de 2019 a 2021.
 
 * Estou cursando Desenvolvimento de Software Multiplataforma (DSM) de 2023 até o momento.
-
-* Autodidata em Inglês
+ 
+* Autodidata em Inglês e estou aprendendo diariamente Francês pelo duolingo (estou no 875° dia de ofensiva atualmente)
 
 * sou fascinado por tecnologias Open-Source, faço uso de Linux e diversas ferramentas de código aberto.
 
@@ -32,7 +32,7 @@ Para mais informações acesse meu [Linkedin](https://www.linkedin.com/in/doni-j
 
 * I'm currently studying Multiplatform Software Development (MSD) from 2023.
 
-* I taught myself to read and listen in English.
+* Self-taught in English and learning French daily on Duolingo (currently on an 875-day streak).
 
 * I'm fascinated by open-source technologies, I use Linux and various open-source tools.
 
