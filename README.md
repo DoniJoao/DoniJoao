@@ -4,7 +4,7 @@
 
 * Estou cursando Desenvolvimento de Software Multiplataforma (DSM) de 2023 até o momento.
  
-* Autodidata em Inglês e estou aprendendo diariamente Francês pelo duolingo (estou no 875° dia de ofensiva atualmente)
+* Autodidata em Inglês e estou aprendendo diariamente Francês pelo duolingo (estou no 1001° dia de ofensiva desde esse commit)
 
 * sou fascinado por tecnologias Open-Source, faço uso de Linux e diversas ferramentas de código aberto.
 
@@ -13,44 +13,46 @@
   
   * Front-End Basico (o primeiro) [Badge Inicial Front-End](https://badge.cps.sp.gov.br//view.aspx?5df1aa6a-8702-47a5-b644-ef2a13d3d4ad)
     
-  * Front-End [Badge de Desenvolvedor Front-End](https://badge.cps.sp.gov.br/_pdf/1b24014bf04e461792c8c40a73179bab.PDF)
+  * Front-End [Badge de Desenvolvedor Front-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?922a529e-9344-43bc-b9c7-7456b5e1b1a5)
     
-  * Back-End [Badge de Desenvolvedor Back-End](https://badge.cps.sp.gov.br/_pdf/e8064728f39d453ebd8b2734f1a29655.PDF)
+  * Back-End [Badge de Desenvolvedor Back-End](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?b046f5c7-87f4-4f1e-b688-2b3c3a90b361)
+
+  * Desenvolvedor para Dispositivos Móveis [Badge Desenvolvedor Mobile](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?484ebaa4-60c8-4abb-8cef-7e712b80e972)
     
   * User Experience [Badge de UX](https://badge.cps.sp.gov.br//view.aspx?f9f5ccbf-d979-4102-bc29-efe209e7bab7)
-    
   * Padrões de Design [Badge Design Patterns](https://badge.cps.sp.gov.br//view.aspx?eee24862-70dc-467e-bf52-e7dd72342a0f)
-  
+  * Inteligência Artificial [Badge Inteligência Artificial](https://badge.cps.sp.gov.br//view.aspx?d17fcd53-1a24-422c-9caf-44e80fb4053c)
+  * DevOps [Badge Devops](https://badge.cps.sp.gov.br//view.aspx?516be597-9e11-4110-8b74-8619433fe33b)
   * AWS Academy Graduate - Cloud Developing - Training Badge [Badge Cloud Developing](https://www.credly.com/badges/043658ad-36d0-4a3e-b7f4-d3f59ce7d52f/public_url)
 
 Para mais informações acesse meu [Linkedin](https://www.linkedin.com/in/doni-joao/)
 
 
-### Hi 👋, I'm John Peter Doni (this is my name in native english Haha)!
+### Hi there 👋, I'm João Pedro Doni!
 
-* I studied Information Management and Information Technology (ITG) for two years from 2019 to 2021.
+* I studied Information Management and Information Technology (GTI) for 2 years from 2019 to 2021.
 
-* I'm currently studying Multiplatform Software Development (MSD) from 2023.
+* I'm currently pursuing a degree in Multiplatform Software Development (DSM) from 2023 to the present.
 
-* Self-taught in English and learning French daily on Duolingo (currently on an 875-day streak).
+* Self-taught in English and learning French daily through Duolingo (I'm on my 1001st day streak since this commit).
 
-* I'm fascinated by open-source technologies, I use Linux and various open-source tools.
+* I'm fascinated by Open-Source technologies, I use Linux and various open-source tools.
 
-### Badges
-I have certified badges issued by Fatec de Itapíra as a prepared and reliable developer in functions such as:
+  ### Badges
+  I hold certified badges issued by Fatec of Itapira as a Developer prepared and reliable in roles such as:
 
- * Front-End Basic (the first one) [Initial Badge Front-End](https://badge.cps.sp.gov.br//view.aspx?5df1aa6a-8702-47a5-b644-ef2a13d3d4ad)
-   
- * Front-End [Badge of Desenvolvedor Front-End](https://badge.cps.sp.gov.br/_pdf/1b24014bf04e461792c8c40a73179bab.PDF)
-   
- * Back-End [Badge of Desenvolvedor Back-End](https://badge.cps.sp.gov.br/_pdf/e8064728f39d453ebd8b2734f1a29655.PDF)
-   
- * User Experience [Badge dof UX](https://badge.cps.sp.gov.br//view.aspx?f9f5ccbf-d979-4102-bc29-efe209e7bab7)
-   
- * Padrões de Design [Badge of Design Patterns](https://badge.cps.sp.gov.br//view.aspx?eee24862-70dc-467e-bf52-e7dd72342a0f)
- 
- * AWS Academy Graduate - Cloud Developing - Training Badge [Badge Cloud Developing](https://www.credly.com/badges/043658ad-36d0-4a3e-b7f4-d3f59ce7d52f/public_url) 
+  * Basic Front-End (the first one) [Initial Front-End Badge](https://badge.cps.sp.gov.br//view.aspx?5df1aa6a-8702-47a5-b644-ef2a13d3d4ad)
 
+  * Front-End [Front-End Developer Badge](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?922a529e-9344-43bc-b9c7-7456b5e1b1a5)
 
+  * Back-End [Back-End Developer Badge](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?b046f5c7-87f4-4f1e-b688-2b3c3a90b361)
 
-For more information visit my [Linkedin](https://www.linkedin.com/in/doni-joao/)
+  * Mobile Device Developer [Mobile Developer Badge](https://siga.cps.sp.gov.br/cartorio/autenticador.aspx?484ebaa4-60c8-4abb-8cef-7e712b80e972)
+
+  * User Experience [UX Badge](https://badge.cps.sp.gov.br//view.aspx?f9f5ccbf-d979-4102-bc29-efe209e7bab7)
+  * Design Patterns [Design Patterns Badge](https://badge.cps.sp.gov.br//view.aspx?eee24862-70dc-467e-bf52-e7dd72342a0f)
+  * Artificial Intelligence [Artificial Intelligence Badge](https://badge.cps.sp.gov.br//view.aspx?d17fcd53-1a24-422c-9caf-44e80fb4053c)
+  * DevOps [DevOps Badge](https://badge.cps.sp.gov.br//view.aspx?516be597-9e11-4110-8b74-8619433fe33b)
+  * AWS Academy Graduate - Cloud Developing - Training Badge [Cloud Developing Badge](https://www.credly.com/badges/043658ad-36d0-4a3e-b7f4-d3f59ce7d52f/public_url)
+
+For more information, visit my [LinkedIn](https://www.linkedin.com/in/doni-joao/)
